@@ -1,0 +1,28 @@
+.menu1 {
+    background-color: rgb(255, 192, 202);
+    margin-bottom: 30px;
+    text-align: center;
+}
+.menu2 {
+    background-color: aqua;
+    text-align: center;
+}
+.link1 {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 20px 50px 20px 50px;
+}
+.link1:hover {
+    background-color: rgb(213, 21, 21);
+    color: rgb(201, 223, 242);
+}
+.link2 {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 20px 50px 20px 50px;  
+}
+.link2:hover {
+    background-color: rgb(161, 104, 214);
+}
